@@ -1,0 +1,15 @@
+{
+    "name": "Saidb.UnityBasicUtilities",
+    "references": [
+        "GUID:f250a4031fe094943bc5bcadddb81146"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
