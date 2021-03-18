@@ -1,7 +1,7 @@
 {
-    "name": "com.hakobio2.hakobio-unity-common",
-    "version": "1.0.1",
-    "displayName": "Hakobio Unity Common",
+    "name": "me.saidb.unity-basic-utilities",
+    "version": "1.0.0",
+    "displayName": "UnityBasicUtilities",
     "dependencies": {
 		  "com.unity.nuget.newtonsoft-json": "2.0.0"
 	}
